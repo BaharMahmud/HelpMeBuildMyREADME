@@ -28,7 +28,10 @@ ${contributing} \n \n
 ${tests} \n \n
 
 ## Questions: \n
-If you have any questions about the repo, open an issue or contact me  directly at ${email}. You can find more of my work at ${gitHub} `;
+If you have any questions about the repo, open an issue or contact me  directly at ${email}. You can find more of my work at ${gitHub}
+
+Link to demonstrate https://drive.google.com/file/d/1qhJAevU-uxPJLdSCMGEeVNzo_ty9vmZ-/view?usp=sharing`;
+
 
 
 
@@ -105,7 +108,7 @@ licensea="![License: FDL 1.3](https://img.shields.io/badge/License-FDL_v1.3-blue
     }
     
     if(answers.license=="The MIT License"){
-        licensea="![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)";
+        licensea="![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)  ";
             }
 
 
