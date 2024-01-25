@@ -98,8 +98,17 @@ licensea="![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)";
 
 }
  if(answers.license==="Boost Software License 1.0"){
-    licensea="https://img.shields.io/badge/License-Boost_1.0-lightblue.svg";
+    licensea="![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)";
     }
+    if(answers.license=="GNU FDL v1.3"){
+licensea="![License: FDL 1.3](https://img.shields.io/badge/License-FDL_v1.3-blue.svg)";
+    }
+    
+    if(answers.license=="The MIT License"){
+        licensea="![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)";
+            }
+
+
 const readMeFileContent=generateReadMe(answers);
 fs.writeFile("README.md",readMeFileContent,(err)=>
 err ? console.log(err) : console.log ("README was created successfully")
