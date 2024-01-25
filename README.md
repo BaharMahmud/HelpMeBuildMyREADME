@@ -1,12 +1,12 @@
-# README file for README file Generator project 
+# README file for README file generator project 
 
- ![License: FDL 1.3](https://img.shields.io/badge/License-FDL_v1.3-blue.svg)
+ ![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)
  
 
 
 Description:
 
-This project is to provide/generate README file for every needed project  
+To generate README file for the project based on questions provided from command line  
  
  
 
@@ -32,32 +32,32 @@ This project is to provide/generate README file for every needed project
 
  ## Installation  
 
-Yuo need to run "npm -i" and then run the "node index.js" and ansswer to provided questions based on your project 
+user should first clone the repo to local and then run "node index.js' 
  
 
  ## Usage  
 
-This is used to provide information about the project to users. 
+This file is used to provde information about the project through README  . 
  
 
  ## License 
 
- GNU FDL v1.3 
+ ISC License (ISC) 
 
 
  ## Contributing  
 
-undefined 
+Every developer in the team can contribute and add their codes. 
  
 
 ## Tests: 
 
-In order to test it you can answer to all questions after running '   "node     index.js" 
+In order to test it it is enough to run the "node index.js" command and answer to questions. 
  
 
 
 ## Questions: 
 
-If you have any questions about the repo, open an issue or contact me  directly at bahar.a.mahmud@gmail.com. You can find more of my work at BaharMahmud@github.com 
+If you have any questions about the repo, open an issue or contact me  directly at bahar.a.mahmud@gmail.com. You can find more of my work at BaharMahmud@github.com
 
-https://drive.google.com/file/d/1qhJAevU-uxPJLdSCMGEeVNzo_ty9vmZ-/view?usp=sharing
+Link to demonstrate https://drive.google.com/file/d/1qhJAevU-uxPJLdSCMGEeVNzo_ty9vmZ-/view?usp=sharing
